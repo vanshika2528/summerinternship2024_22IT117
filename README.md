@@ -1,6 +1,6 @@
 # summerinternship2024_22IT117 - 4th sem Summer Internship
 # Weekly Learning Schedule
-## Week 1
+# Week 1
 ## 13/05/2024 - Monday
 - Introduced to Flutter and its components.
 - Installed Flutter, Android Studio, and VS Code setup.
@@ -59,3 +59,88 @@
 ## 25/05/2024 - Saturday
 - Added filtering options based on product category.
 - Implemented dropdown menu.
+
+# Week 3
+
+## 27/05/2024 - Monday
+- Learned the concept of classes and objects in Dart.
+- Learned Dart datatypes.
+- Understood the difference between `var` and `dynamic`, and fetched API data.
+
+## 28/05/2024 - Tuesday
+- Implemented a search functionality that searches data from an API and displays it.
+- Implemented `Navigator.pop` and Drawer.
+
+## 29/05/2024 - Wednesday
+- Introduced to state management.
+- Learned `StatefulWidget` and `setState`.
+- Learned ephemeral state and app state, and implemented app state management.
+
+## 30/05/2024 - Thursday
+- Learned `InheritedWidget` and `InheritedModel`.
+- Learned `InheritedNotifier` and `ChangeNotifier`.
+- Learned `Provider`.
+
+## 31/05/2024 - Friday
+- Learned `Redux` and secure store.
+- Learned `riverpod` and `MobX`.
+- Implemented state management using `GetX`.
+
+## 01/06/2024 - Saturday
+- Implemented Get default dialog.
+- Implemented `GetX` change light and dark theme.
+- Implemented navigation and routing with `GetX`.
+
+# Week 4
+
+## 03/06/2024 - Monday
+- Implemented GetX state management (e.g., change opacity using Slider).
+- Implemented GetX state management (e.g., notification on/off switch).
+- Implemented GetX mark favorite list.
+
+## 04/06/2024 - Tuesday
+- Learned internationalization in Flutter using GetX.
+- Implemented language change in Flutter.
+- Implemented GetX image picker.
+
+## 05/06/2024 - Wednesday
+- Created login page with GetX.
+- Implemented validation in login page.
+
+## 06/06/2024 - Thursday
+- Implemented routing with GetX.
+- Added items to cart page and removed items from cart.
+- Made navigation bar using CurvedNavigationBar.
+
+## 07/06/2024 - Friday
+- Learned MVC pattern in Flutter.
+- Implemented MVC pattern to API fetch.
+- Learned MVC utils.
+
+## 08/06/2024 - Saturday
+- Implemented animation to circular progress indicator.
+- Created payment page.
+- Created profile page.
+
+# Week 5 Learning Schedule
+
+## 10/06/2024 - Monday
+- Created splash screen of the app.
+- Created login page of the app and implemented validation in the login page.
+- Created home screen of the app.
+
+## 11/06/2024 - Tuesday
+- Developed product listing and detailed product view pages.
+- Filtered products based on category.
+- Implemented shopping cart functionality.
+
+## 12/06/2024 - Wednesday
+- Implemented shopping cart functionality.
+- Created wishlist page.
+- Created profile page of the app.
+
+## 13/06/2024 - Thursday
+- Implemented GetX image picker for the profile page.
+- Added items to the cart page and removed items from the cart.
+- Created user details page and payment page.
+
