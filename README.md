@@ -1,4 +1,4 @@
-# summerinternship2024_22IT117 - 4th sem Summer Internship
+# Summer Internship 2024 - 22IT117(4th Sem)
 # Weekly Learning Schedule
 # Week 1
 ## 13/05/2024 - Monday
@@ -122,7 +122,7 @@
 - Created payment page.
 - Created profile page.
 
-# Week 5 Learning Schedule
+# Week 5
 
 ## 10/06/2024 - Monday
 - Created splash screen of the app.
@@ -143,4 +143,5 @@
 - Implemented GetX image picker for the profile page.
 - Added items to the cart page and removed items from the cart.
 - Created user details page and payment page.
+
 
